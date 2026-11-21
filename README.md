@@ -23,7 +23,7 @@
 
 ## 👨‍💻 About Me
 
-- 💼 Senior Data Engineer with 8 years of experience.
+- 💼 Senior Data Engineer with 7.5 years of experience.
 - ❄️ Working with Snowflake and enterprise data engineering concepts.
 - ☁️ Interested in cloud-based data platforms and AWS.
 - 🐍 Developing automation and data solutions using Python.
